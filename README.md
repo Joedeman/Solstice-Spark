@@ -8,4 +8,4 @@ Solstice-Spark was inspired by a friend's vision to start a solar business. We a
 
 ## Visit Our Website
 
-For more information, please visit our website: Solstice-Spark
+For more information, please visit our website: [View Application](https://middlechild.azurewebsites.net)
